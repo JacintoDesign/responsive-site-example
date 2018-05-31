@@ -1,6 +1,6 @@
 # [Responsive Site Example](https://jacintodesign.github.io/responsive-site-example/)
 
-
+![Responsive Site Example](https://jacinto.design/mockups/responsive-site-example1.jpg "Responsive Site Example")
 
 ## Description
 
